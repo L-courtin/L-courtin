@@ -1,9 +1,10 @@
 # 💻 Lucas
 
 **`Engineering Student (Embedded Systems | Big Data & Machine Learning)`**
-<!--
-**Deykoz/Deykoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+---
+Hi there! I'm Lucas, an engineering student passionate about embedded systems, big data, and artificial intelligence. I specialize in embedded systems, big data analysis, and the development of machine learning models. On my GitHub, you’ll find academic projects and personal experiences in machine learning and data engineering. 🚀
+
+I am currently looking for a 6-month internship in **Data Engineering** to apply my skills and gain real-world experience.
 ---
 ### 🧰 Languages and Tools
 
@@ -21,5 +22,12 @@
 <img align="left" alt="Logstash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" />
 
 
+
+---
+
+### 📬 Contact Me
+
+- LinkedIn: [Lucas Courtin](https://www.linkedin.com/in/lucas-courtin)
+- Email: [courtin.lucas@hotmail.com](mailto:courtin.lucas@hotmail.com)
 <br />
 
